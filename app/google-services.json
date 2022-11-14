@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "147427551157",
+    "project_id": "loja-kloset",
+    "storage_bucket": "loja-kloset.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147427551157:android:ba7eb40969aee41bbddbfc",
+        "android_client_info": {
+          "package_name": "com.dev_david.lojakloset"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147427551157-33npos7cmvv3nulrv58fd2dc3d4hpgi6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaOQDDbO1P4YE1dWRhaNG-FSBbwYo36Go"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147427551157-33npos7cmvv3nulrv58fd2dc3d4hpgi6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:title=""
+        android:icon="@drawable/ic_headline_24"
+        app:showAsAction="ifRoom">
+
+        <menu>
+
+            <item
+                android:id="@+id/perfil"
+                android:title="@string/menu_perfil"
+                android:icon="@drawable/ic_person24"
+                app:showAsAction="never" />
+
+            <item
+                android:id="@+id/pedidos"
+                android:title="@string/menu_pedidos"
+                android:icon="@drawable/ic_playlist_check_24"
+                app:showAsAction="never" />
+
+            <item
+                android:id="@+id/deslogar"
+                android:title="@string/menu_deslogar"
+                android:icon="@drawable/ic_login_24"
+                app:showAsAction="never" />
+
+        </menu>
+
+
+
+    </item>
+
+</menu>

@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Loja Kloset</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_senha">Senha</string>
+    <string name="hint_nome">Nome</string>
+
+    <string name="hint_bairro">Bairro</string>
+    <string name="hint_rua">Rua e Número</string>
+    <string name="hint_cidade_estado">Cidade e Estado</string>
+    <string name="hint_celular">Celular</string>
+
+    <string name="bt_cadastrar">Cadastrar</string>
+    <string name="texto_dialog">Carregando...</string>
+    <string name="titulo_tela_cadastro">Faça o seu cadastro</string>
+    <string name="txtTelaCadastro">Não tem conta? Cadastre-se</string>
+    <string name="txtBotaoEntrar">Entrar</string>
+    <string name="titulo_escolha_tamanho">Escolha o tamanho</string>
+    <string name="titulo_preco">Preço</string>
+    <string name="texto_botao_finalizar_pedido">Finalizar pedido</string>
+
+    <string name="menu_perfil">Perfil</string>
+    <string name="menu_pedidos">Pedidos</string>
+    <string name="menu_deslogar">Sair da seção</string>
+
+    <string name="texto_botão_deslogar">Sair</string>
+    <string name="texto_botão_pagamento">Realizar pagamento</string>
+
+    <string name="nome_loja"><b><font color="#3F51B5">Loja</font> </b> Virtual</string>
+
+    <string name="texto_tamanho38">38</string>
+    <string name="texto_tamanho39">39</string>
+    <string name="texto_tamanho40">40</string>
+    <string name="texto_tamanho41">41</string>
+    <string name="texto_tamanho42">42</string>
+
+    <string name="titulo_tela_pagamento">Preencha todos os campos antes de finalizar o pagamento</string>
+</resources>
